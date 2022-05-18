@@ -23,7 +23,7 @@ X just hired you to create an online library. It needs you to build a REST API w
 1. Install the latest [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 2. Navigate to `src/API` and run `dotnet run` to launch the back end (ASP.NET Core Web API)
 
-ABOUT DATABASE: This project is using Sqlite to unsure anyone can run the solution without needing to set up additional infrastructure (e.g. SQL Server)
+🔵 ABOUT DATABASE: This project is using Sqlite to unsure anyone can run the solution without needing to set up additional infrastructure (e.g. SQL Server)
 
 ## Technologies used
 
