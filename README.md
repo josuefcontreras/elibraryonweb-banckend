@@ -1,16 +1,16 @@
 # Library API
 
-GBH just hired you to create an online library. It needs you to build a REST API which will allow our clients to consume the list of available books, as well as to read those books page by page in the desired formats. For this first iteration the books will be available (page by page) in plain text and HTML. In future iterations, we would like to add support for more reading formats, as well as support to interface with other online book service providers.
+X just hired you to create an online library. It needs you to build a REST API which will allow our clients to consume the list of available books, as well as to read those books page by page in the desired formats. For this first iteration the books will be available (page by page) in plain text and HTML. In future iterations, we would like to add support for more reading formats, as well as support to interface with other online book service providers.
 
 ## Technical Requirements
 
-- Get list of books
-- Get a book
+- ✅ Get list of books
+- ✅ Get a book
 - Get a book page in the desired format
-- Make use of friendly routes
+- ✅ Make use of friendly routes
   for example: `/book/1` or `/book/1 /page/11/html`
-- Provide seeders / migrations for the database (books with their pages)
-- Provide instruccions on project setup/configuration
+- ✅ Provide seeders / migrations for the database (books with their pages)
+- ✅ Provide instruccions on project setup/configuration
 
 ## Rules
 
